@@ -1,0 +1,131 @@
+body {
+  font-family: 'IsabellaSansRegular';
+  font-style: normal;
+}
+
+iframe {
+  max-width: 100%;
+}
+
+.title_form {
+  color: white;
+  font-size: 1.5em;
+  font-family: 'IsabellaSansRegular';
+  font-style: normal;
+}
+
+/* Palabra del encabezado */
+#tit {
+  color: #BDBDBD;
+}
+
+/* Primara parte del cuerpo del proyecto */
+
+nav a:hover, nav a:active {
+
+  background:#1C5552; /*cambia el color cuando pasas el mouse*/
+  color:#ffffff;
+  font-family: 'IsabellaSansRegular';
+  font-style: normal;
+}
+
+h1 {
+  text-align: center;
+  width: 80%;
+  margin: auto;
+  font-size: 21px;
+  font-family: 'IsabellaSansRegular';
+  font-weight: 200px;
+  font-style: normal;
+}
+
+h2 {
+  text-align: center;
+  width: 80%;
+  margin: auto;
+  font-family: 'IsabellaSansRegular';
+  font-weight: 200px;
+  font-style: normal;
+}
+
+h3 {
+  text-align: center;
+  width: 80%;
+  margin: auto;
+  font-family: 'IsabellaSansRegular';
+  font-weight: 200px;
+  font-style: normal;
+}
+
+h4 {
+  text-align: center;
+  width: 80%;
+  margin: auto;
+  font-family: 'IsabellaSansRegular';
+  font-weight: 200px;
+  font-style: normal;
+}
+
+#color_h4 {
+  color: #406563;
+}
+
+p {
+  text-align: justify;
+  width: 80%;
+  margin: auto;
+  font-size: 20px;
+  font-family: 'IsabellaSansRegular';
+  font-weight: 200px;
+  font-style: normal;
+}
+
+li {
+  text-align: justify;
+  width: 80%;
+  margin: auto;
+  font-size: 20px;
+  font-family: 'IsabellaSansRegular';
+  font-weight: 200px;
+  font-style: normal;
+}
+
+li {
+  text-align: left;
+}
+
+iframe {
+  display:block;
+  margin:auto;
+}
+
+button {
+  display:block;
+  margin:auto;
+}
+
+#footer_word {
+  color: white;
+  text-align: center;
+  margin: auto;
+  width: 80%;
+  font-size: 0.9em;
+}
+
+.graph {
+  margin: auto;
+  text-align: center;
+}
+
+img{
+  display:block;
+  margin:auto;
+}
+
+.left_world {
+  text-align: left;
+}
+
+.n_world {
+  font-weight: bold;
+}
